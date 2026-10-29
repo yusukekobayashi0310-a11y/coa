@@ -1,0 +1,10 @@
+{
+  "name": "恋々彩こあ 推し活アーカイブ",
+  "short_name": "こあ推し活",
+  "lang": "ja",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffafd",
+  "theme_color": "#9c164e",
+  "icons": []
+}
